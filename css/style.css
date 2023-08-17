@@ -76,8 +76,6 @@ nav .d-flex .btn:hover{
 
 /* ==========================Banner Start=============================== */
 
-#banner-part .slide{
-}
 
 
 #banner-part .slide .container{
@@ -109,7 +107,7 @@ nav .d-flex .btn:hover{
 
 
 #banner-part{
-    background-image: url(../Images/agenc-Banner\ 1.jpg);
+    background-image: url(../images/agenc-Banner\ 1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
