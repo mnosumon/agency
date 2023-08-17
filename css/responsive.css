@@ -1,0 +1,558 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .navbar {
+        
+        top: 7px;
+        padding: 10px !important;
+    }
+
+    .navbar-collapse {
+        background-color: darkblue;
+        padding: 5px 50px;
+        border-radius: 20px;
+        text-align: center;
+        margin: 10px auto;
+    }
+
+    nav .m-icon{
+        color: aliceblue;
+    }
+
+    .navbar-toggler{
+        border: 2px solid green;
+    }
+
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    nav .navbar-nav {
+        width: 150px;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    nav .d-flex .btn {
+        padding: 5px 15px;
+    }
+
+
+
+    #banner-part .container {
+        padding: 260px 0 50px;
+    }
+
+    #banner-part .container h1 {
+        width: auto;
+        font-size: 45px;
+        font-weight: 600;
+        line-height: 120%;
+    }
+
+    #banner-part .container p {
+        width: auto;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 31px auto 25px;
+    }
+
+    #banner-part .container .btn {
+        padding: 10px 24px;
+        font-size: 16px;
+    }
+
+
+
+
+   
+    #success-part .container .description{
+        text-align: center;
+    }
+
+    #success-part .container .description h3{
+        width: auto;
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    #success-part .container .content {
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+
+
+    #success-part .container .content .com-title h2{
+        font-size: 32px;
+        text-align: center;
+    }
+    #success-part .container .content .com-title p {
+       text-align: center;
+       font-size: 18px;
+    }
+
+    #success-part .container {
+        padding: 10px;
+    }
+
+
+
+
+    #service .container .service-details .card-1 {
+        border-radius: 10px;
+        padding: 30px 29px 27px;
+        transition: 0.5s;
+        margin: 0 15px;
+    }
+
+    #service .container .service-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+
+    #service .container .service-details .card-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+
+   
+
+    #agenc .container .agenc-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding: 10px;
+    }
+
+    #agenc .container .agenc-details{
+        text-align: center;
+    }
+
+    #agenc .container .agenc-details .row .col-lg-8 .row p {
+        width: auto;
+    }
+    #agenc .container .agenc-details .row .image{
+        height: 428px;
+        width: auto;
+    }
+
+    #agenc .container .agenc-details .row .image {
+        width: auto;
+        padding: 10px;
+        
+    }
+    #agenc .container .agenc-details .row .image img {
+        border-radius: 10px;
+    }
+
+
+
+
+
+
+    #work .container .work-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+    #work .container .work-details .card-1 {
+        border-radius: 10px;
+        padding: 40px 29px 27px;
+        width: auto;
+        margin: 0 5px;
+    }
+    #work .container .work-details .card-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        text-align: center;
+    }
+
+
+
+    #review .container .review-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+    #review .container .review-details .slide .pera {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+
+
+    #code .container .text h2 {
+        font-size: 35px;
+        text-align: center;
+        width: auto;
+    }
+
+    #code .container .text .p-1 {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+
+    #code .container .text .p-2 {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    #code .container .form {
+        padding: 12px 10px;
+        background-color: #FFFFFF;
+        margin: 15px 11px 15px 0;
+        border-radius: 20px;
+    }
+    #code .container .head h2 {
+        font-size: 26px;
+        font-weight: 600;
+        width: auto;
+    }
+
+
+
+    #code .container form .f-details input {
+        line-height: 22px;
+        padding: 10px 30px 10px 23px;
+    }
+    #code .container .text {
+        margin: 100px 0 127px;
+    }
+
+
+
+
+  
+    #end .container .easy .column-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        text-align: center;
+    }
+
+    
+
+
+    #end .container .easy .column-1 .image {
+        width: 166px;
+        height: 42px;
+        margin: 30px auto;
+    }
+
+    #end .container .easy .row {
+        row-gap: 20px;
+    }
+
+
+
+
+   
+}
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    .navbar {
+        
+        top: 10px;
+        padding: 12px !important;
+    }
+
+    .navbar-collapse {
+        background-color: darkblue;
+        padding: 8px 60px;
+        border-radius: 20px;
+        text-align: center;
+        margin: 12px auto;
+    }
+
+    nav .m-icon{
+        color: aliceblue;
+    }
+
+    .navbar-toggler{
+        border: 2px solid green;
+    }
+
+   
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    nav .navbar-nav {
+        width: 160px;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    nav .d-flex .btn {
+        padding: 8px 18px;
+    }
+
+
+
+    #banner-part .container {
+        padding: 270px 0 60px;
+    }
+
+    #banner-part .container h1 {
+        width: auto;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 120%;
+    }
+
+    #banner-part .container p {
+        width: auto;
+        font-size: 16px;
+        line-height: 20px;
+        margin: 31px auto 25px;
+    }
+
+    #banner-part .container .btn {
+        padding: 10px 24px;
+        font-size: 16px;
+    }
+
+
+
+    
+
+
+
+
+    #success-part .container .description{
+        text-align: center;
+    }
+
+    #success-part .container .description h3{
+        width: auto;
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    #success-part .container .content {
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+
+
+    #success-part .container .content .com-title h2{
+        font-size: 32px;
+        text-align: center;
+    }
+    #success-part .container .content .com-title p {
+       text-align: center;
+       font-size: 18px;
+    }
+
+    #success-part .container {
+        padding: 10px;
+    }
+
+
+
+
+     #service .container .service-details .card-1 {
+        border-radius: 10px;
+        padding: 30px 29px 27px;
+        transition: 0.5s;
+        margin: 0 15px;
+    }
+
+    #service .container .service-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+
+    #service .container .service-details .card-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+
+   
+
+    #agenc .container .agenc-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding: 10px;
+    }
+
+    #agenc .container .agenc-details{
+        text-align: center;
+    }
+
+    #agenc .container .agenc-details .row .col-lg-8 .row p {
+        width: auto;
+    }
+    #agenc .container .agenc-details .row .image{
+        height: 428px;
+        width: auto;
+    }
+
+    #agenc .container .agenc-details .row .image {
+        width: auto;
+        padding: 10px;
+        
+    }
+    #agenc .container .agenc-details .row .image img {
+        border-radius: 10px;
+    }
+    
+
+
+
+
+    
+
+    #work .container .work-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+    #work .container .work-details .card-1 {
+        border-radius: 10px;
+        padding: 40px 29px 27px;
+        width: auto;
+        margin: 0 5px;
+    }
+    #work .container .work-details .card-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        text-align: center;
+    }
+
+
+
+    #review .container .review-title p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+    }
+    #review .container .review-details .slide .pera {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+    }
+
+    .slick-center{
+        background-color: none;
+    }
+    
+    .slick-center .p-1, .slick-center .p-2{
+        padding: 0 !important;
+        margin: 0;
+        color: #a7b908;
+    }
+    
+    .slick-center .pera{
+        color: #000000 !important;
+    }
+    
+
+
+
+    #code .container .text h2 {
+        font-size: 35px;
+        text-align: center;
+        width: auto;
+    }
+
+    #code .container .text .p-1 {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+
+    #code .container .text .p-2 {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    #code .container .form {
+        padding: 12px 10px;
+        background-color: #FFFFFF;
+        margin: 15px 11px 15px 0;
+        border-radius: 20px;
+    }
+    #code .container .head h2 {
+        font-size: 26px;
+        font-weight: 600;
+        width: auto;
+    }
+
+
+
+    #code .container form .f-details input {
+        line-height: 22px;
+        padding: 10px 30px 10px 23px;
+    }
+    #code .container .text {
+        margin: 100px 0 127px;
+    }
+
+
+
+
+  
+    #end .container .easy .column-1 p {
+        font-size: 14px;
+        line-height: 20px;
+        width: auto;
+        text-align: center;
+    }
+
+    
+
+
+    #end .container .easy .column-1 .image {
+        width: 166px;
+        height: 42px;
+        margin: 30px auto;
+    }
+
+    #end .container .easy .row {
+        row-gap: 20px;
+    }
+
+
+
+
+}
